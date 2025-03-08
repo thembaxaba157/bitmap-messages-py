@@ -20,4 +20,4 @@ Files:
 1. bitmap_mes.py
   - is the main file for the project
 2. bitmap.txt
-  - contains the bitmap with *
+  - contains the bitmap with "*" and will be read by bitmap_mes.py
